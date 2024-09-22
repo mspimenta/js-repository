@@ -57,6 +57,18 @@
       "github": true
     }
   ],
+  "formation": [
+    {
+      "name": "Técnico em Informática para Web",
+      "period":"2023 - 2024",
+      "description":"Instituto Federal de Ciência e Tecnologia do Sul de Minas - IFSULDEMINAS"
+    },
+    {
+      "name": "Engenharia de Software",
+      "period":"2022 - 2026",
+      "description":"Universidade Norte do Paraná - UNOPAR"
+    }
+  ],
   "professionalExperience": [
     {
       "name": "Agente de T.I / Administrativo | Baia Leilões LTDA",

@@ -62,6 +62,19 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+function updateFormation(profileData) {
+    const formation = document.getElementById('profile.formation')
+    formation.innerHTML = profileData.formation.map(education => {
+        return `
+        <li>
+        <h3 class="title">${education.name}</h3>
+        <p class="period">${education.period}</p>
+        <p class="description">${education.description}</p>
+        </li>
+        `
+    }).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -70,4 +83,5 @@ function updateProfessionalExperience(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+    updateFormation(profileData)
 })()
