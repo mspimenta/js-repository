@@ -1,19 +1,23 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Mateus Pimenta",
+  "photo": "https://avatars.githubusercontent.com/u/137216621?v=4",
+  "job": "Junior Developer, Software Engineer",
+  "location": "Campos Belo - MG",
+  "phone": "(35) 9 9768-7799",
+  "email": "mateus.pimenta@ymail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Angular",
@@ -24,55 +28,50 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Resolução de problemas",
+      "Comunicação",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Liderança",
+      "Orientação a metas",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokedex com JavaScript Vanilla",
+      "url": "https://github.com/mspimenta/js-developer-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Agente de T.I / Administrativo | Baia Leilões LTDA",
+      "period": "2023 - até o momento",
+      "description": "Após transição de carreira, contribuo na manutenção e suporte de equipamentos, aquisição e desenvolvimento de melhorias em software e banco de dados. Administração e organização de documentos, contas a pagar e notas fiscais."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Caixa | Sicoob Copermec",
+      "period": "2022 - 2023",
+      "description": "Pude lidar com movimentações numerárias, recebimento e envio de malotes, abertura e fechamento de tesouraria, atendimento ao público e venda de produtos bancários. Após, me interessei pela área de tecnologia e fiz transição de carreira."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Jovem Aprendiz | Caixa Econômica Federal",
+      "period": "2020 - 2022",
+      "description": "Em meu primeiro contato com o mercado de trabalho, pude aprender a solucionar problemas, atender ao público, triagem e identificação de demandas, trabalho em equipe, vendas de produtos bancários, recebimento e envio de malotes e auxiliar em tarefas internas. Após, tive a oportunidade de ser contratado como efetivo em uma instituição financeira renomada na cidade."
     }
   ]
 }
