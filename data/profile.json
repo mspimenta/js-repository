@@ -56,8 +56,23 @@
   ],
   "portfolio": [
     {
-      "name": "Pokedex com JavaScript Vanilla",
+      "name": "Web Pokedex (Pokemon) interativa com JavaScript",
       "url": "https://github.com/mspimenta/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Jogo web Jo-ken-po Yu-Gi-Oh com JavaScript",
+      "url": "https://github.com/mspimenta/js-yugioh-assets",
+      "github": true
+    },
+     {
+      "name": "Jogo web da memória com emojis com JavaScript",
+      "url": "https://github.com/mspimenta/js-emoji-memory-game",
+      "github": true
+    },
+    {
+      "name": "Jogo web Detona Ralph com JavaScript",
+      "url": "https://github.com/mspimenta/jsgame-detona-ralph",
       "github": true
     }
   ],
