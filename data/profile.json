@@ -34,6 +34,10 @@
       {
         "name": "Git",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "Servicenow",
+        "logo": "https://companieslogo.com/img/orig/NOW-6d5a01eb.png?t=1720244493"
       }
     ],
     "softSkills": [
@@ -70,10 +74,16 @@
     }
   ],
   "professionalExperience": [
+{
+      "name": "Servicenow Developer | GFT Brasil",
+      "period": "2024 - o momento",
+      "description": "Comecei como estagiário de desenvolvimento com a plataforma Servicenow. Aprendizados constantes, trilha de estudos, certificações e projetos reais em clientes."
+    },
+    
     {
       "name": "Agente de T.I / Administrativo | Baia Leilões LTDA",
-      "period": "2023 - até o momento",
-      "description": "Após transição de carreira, contribuo na manutenção e suporte de equipamentos, aquisição e desenvolvimento de melhorias em software e banco de dados. Administração e organização de documentos, contas a pagar e notas fiscais."
+      "period": "2023 - 2024",
+      "description": "Após transição de carreira, pude contribuir na manutenção e suporte de equipamentos, aquisição e desenvolvimento de melhorias em software e banco de dados. Administração e organização de documentos, contas a pagar e notas fiscais."
     },
     {
       "name": "Caixa | Sicoob Copermec",
